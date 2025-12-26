@@ -1,1 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: https://filecompressor.shop/sitemap.xml
 
